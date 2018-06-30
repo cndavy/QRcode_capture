@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="QRcode:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QRcode_jar</output-path>
+    <root id="archive" name="QRcode.jar">
+      <element id="module-output" name="QRcode" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/QRCode.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/QRCode.jar" />
+    </root>
+  </artifact>
+</component>
